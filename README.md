@@ -16,12 +16,12 @@ A simple Android calculator app that supports both basic and scientific operatio
 - Android SDK  
 - Android XML Layout  
 - Android Views: `TextView`, `Button`, `EditText`  
-- Java Math API (`Math.sin()`, `Math.pow()`, etc.)
+- Java Math API
 
 ## ▶️ Run the App
 
 ```bash
-git clone https://github.com/yourusername/CalculatorApp.git
+git clone https://github.com/egezturkk/CalculatorApp.git
 
 Then:
 Open the project in Android Studio
